@@ -1,0 +1,16 @@
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Namotion.Reflection.dll
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\NJsonSchema.dll
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Namotion.Reflection.xml
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\NJsonSchema.xml
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ata.tunca\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
